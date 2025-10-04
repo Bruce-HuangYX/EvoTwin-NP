@@ -1,0 +1,10 @@
+dataset:
+  path: examples/indoor_air/data
+  datetime_col: timestamp
+  tz: UTC
+  features: [co2, pm25, tvoc, hcho, temp, rh]
+  window_size: 60
+  stride: 1
+  safe_gap: 60
+np:
+  fpr_targets: [0.005, 0.01, 0.05]

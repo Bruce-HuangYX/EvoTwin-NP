@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "EvoTwin-NP: Dual-Loop Evolutionary Detection and Calibration under Neyman–Pearson Constraints"
+message: "If you use this software, please cite it."
+type: software
+authors:
+  - family-names: Huang
+    given-names: Yuxu
+    orcid: "https://orcid.org/0009-0007-0674-5942"
+repository-code: "https://github.com/Bruce-HuangYX/EvoTwin-NP"
+license: MIT
+version: "0.0.1"
+date-released: "2025-10-03"
